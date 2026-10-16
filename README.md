@@ -13,7 +13,7 @@ This is a Node.js backend application built for testing APIs and learning backen
 2. `npm install`
 3. `npm run dev` (yoki `npm start`)
 
-   ## Features
+ ## Features
 - REST API setup using Express.js
 - Swagger API documentation
 - Environment variable support
