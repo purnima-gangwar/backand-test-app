@@ -21,4 +21,4 @@ This is a Node.js backend application built for testing APIs and learning backen
 
 Server ishga tushganda brauzer avtomatik ravishda `http://localhost:5000/swagger` ochiladi.
 
-THANKU YOU!
+## THANKU YOU!
